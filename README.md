@@ -1,6 +1,6 @@
 # ZengxunShaBi
 
-    ```zengxun <- c("zengxun", "shi", "shabi") /n
+    ```zengxun <- c("zengxun", "shi", "shabi") \n
     print(zengxun)
     ```
 ***
